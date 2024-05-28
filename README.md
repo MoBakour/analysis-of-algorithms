@@ -2,9 +2,9 @@
 
 ## About
 
-<b>Student name</b>: Mohamed Bakour
-<b>Student id</b>: 220911218
-<b>Programming Language</b>: TypeScript
+<b>Student name</b>: Mohamed Bakour<br />
+<b>Student id</b>: 220911218<br />
+<b>Programming Language</b>: TypeScript<br />
 
 I decided to go with TypeScript because I am familiar with it and with the Node.js ecosystem.
 
