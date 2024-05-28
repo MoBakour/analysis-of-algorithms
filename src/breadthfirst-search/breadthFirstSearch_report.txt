@@ -1,0 +1,18 @@
+Test case on line: 115
+
+How to run the file:
+Option 1 (online):
+Using TypeScript language online playground https://www.typescriptlang.org/play
+
+Option 2 (locally):
+1. Install Node.js
+https://nodejs.org/en/download/
+
+2. Install TypeScript
+npm install -g typescript
+
+3. Run TypeScript compiler
+tsc filename.ts
+
+4. Run the JavaScript output file
+node filename.js
